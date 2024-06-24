@@ -1,9 +1,5 @@
 ## Movie Rating Prediction
 
-## Author: Hetanshi Acharya
-
-## Batch: July
-
 ## Domain: Data Science
 
 ## Aim
